@@ -319,6 +319,6 @@ Player2048.prototype.play = function() {
 	}, 100);
 };
 
-var player = new Player2048(4, 2000, 9);
+var player = new Player2048(4, 1000, 7);
 
 player.play();
